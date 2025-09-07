@@ -1,18 +1,11 @@
-# Authors
+anmol-adhav:
+  name: "Anmol Adhav"
+  bio: "Hello there! I am a structural biologist, specializing in cryo-electron microscopy (cryo-EM). I have a PhD and am currently a postdoc focused on understanding the intricate structures of biomolecules.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Throughout my research, I've developed a passion for problem-solving and an interest in the broader applications of technology. I am always looking for new challenges and ways to apply my skills to innovative solutions, both inside and outside of the lab."
+  avatar: "https://x.com/anmoladhav/photo"
+  email: "your@email.com"
+  location: "City, Country"
+  github: "anmol-adhav"
+  linkedin: "anmol-adhav"
+  # Add other fields as needed
